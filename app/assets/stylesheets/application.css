@@ -22,7 +22,7 @@ h1 {
 .usuario-card {
     border: 1px solid #ddd;
     padding: 15px;
-    background-color: #f9f9f9;
+    background-color: #963535;
     width: calc(33% - 10px);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
